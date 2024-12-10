@@ -437,12 +437,6 @@ export default (initialState: StateInterface): State => {
     getStopProgressHandler() {
       return state.stopProgressHandler;
     },
-    // setUseRealmPrefixOnManagedObjects(useRealmPrefixOnManagedObjects: boolean) {
-    //   state.useRealmPrefixOnManagedObjects = useRealmPrefixOnManagedObjects;
-    // },
-    // getUseRealmPrefixOnManagedObjects() {
-    //   return state.useRealmPrefixOnManagedObjects;
-    // },
 
     // global state
 
